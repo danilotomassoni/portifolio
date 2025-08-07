@@ -292,6 +292,10 @@ main .visible{
     min-width: 244px;
     min-height: 244px;
     background: rgba(0, 0, 0, .1);
+    background-image: url("/img/imagen.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     border-radius: 15px;
     padding: 2rem;
     color: #eee;
